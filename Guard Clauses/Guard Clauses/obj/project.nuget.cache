@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cUTWtGK3/13X+Nty5F9x8glRxds03KLeco3nBf04d+/QZqT4oPcVDDjY8Db3oB8IIrtlxRFnnDEzgOH2noUSkQ==",
+  "success": true,
+  "projectFilePath": "E:\\KBImport\\CodeMazeGuides-main\\dotnet-client-libraries\\Guard Clauses\\Guard Clauses\\Guard Clauses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\ardalis.guardclauses\\4.0.1\\ardalis.guardclauses.4.0.1.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\guardclauses\\1.2.4\\guardclauses.1.2.4.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\jetbrains.annotations\\2021.3.0\\jetbrains.annotations.2021.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
